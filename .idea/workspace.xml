@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="177dc454-3f7d-44f1-a65e-7b99d7a6fe66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pKKnNpdEux9s5MLCWE0Qb4LnEh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="Application.Prog">
+    <configuration name="Pog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pog" />
+      <module name="untitled29" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog" />
+      <module name="untitled29" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Prog" />
+        <item itemvalue="Application.Pog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="177dc454-3f7d-44f1-a65e-7b99d7a6fe66" name="Default Changelist" comment="" />
+      <created>1614926507340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614926507340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1635" y="445" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1614934043515">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1635" y="445" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1614934043515" />
+    <state width="1283" height="270" key="GridCell.Tab.0.bottom" timestamp="1614939352861">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1283" height="270" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1614939352861" />
+    <state width="1283" height="270" key="GridCell.Tab.0.center" timestamp="1614939352860">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1283" height="270" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1614939352859" />
+    <state width="1283" height="270" key="GridCell.Tab.0.left" timestamp="1614939352859">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1283" height="270" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1614939352859" />
+    <state width="1283" height="270" key="GridCell.Tab.0.right" timestamp="1614939352860">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state width="1283" height="270" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1614939352860" />
+  </component>
+</project>
